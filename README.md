@@ -1,23 +1,17 @@
 # Python-Programming-Language
 
 ## Python Data Types in Python
-| NAMES              | TYPES                              |
-|:-------------------|:-----------------------------------|
-| Numeric Types      | Integers, Floating-Point, Complex  |
-| Sequence Types     | Lists, Tuples, Strings, Range      |
-| Mapping Types      | Dictionaries                       |
-| Set Types          | Sets                               |
-| Boolean Types      | Boolean                            |
-| None Type          | None                               |
+| NAMES              | TYPES           |            |  EXAMPLE                          |
+|:-------------------|:----------------|:-----------|-----------------------------------|
+| Numeric Types      | Integers        | `int`      | y = 20                            |
+| Numeric Types      | Floating-Point  | `float`    | x = 20.5                          |
+| Numeric Types      | Complex         | `complex`  | y = 2j                            |
+| Sequence Types     | Strings         | `str`      | x = "Hello, World!"               |
+| Sequence Types     | Lists           | `list`     | y = ["apple", "banana", "cherry"] |
+| Sequence Types     | Tuples          | `tuple`    | y = ("apple", "banana", "cherry") |
+| Sequence Types     | Range           | `range`    | y = range(6)                      |
+| Mapping Types      | Dictionaries    | `dict`     | x = {"name": "John", "age": 36}   |
+| Set Types          | Sets            | `set`      | y = {"apple", "banana", "cherry"} |
+| Boolean Types      | Boolean         | `bool`     | x = True                          |
+| None Type          | None            | `None`     | x = None                          |
 
-
-| NAMES              | TYPES      | DESCRIPTIONS |  |  |
-|:-------------------|:---------- |:-----------------------------|:-------------------------------|:-------------------------------|
-| Integers           | int        |                            1 |                             1 |                              1 |
-| Floating point     | float      |                            1 |                             1 |                              1 |
-| Strings            | str        |                            1 |                             1 |                              1 |
-| Lits               | list       |                            1 |                             1 |                              1 |
-| Dictionaries       | dict       |                            1 |                             1 |                              1 |
-| Tupes              | tuple      |                            1 |                             1 |                              1 |
-| Sets               | set        |                            1 |                             1 |                              1 |
-| Booleans           | bool       |                            1 |                             1 |                              1 |
