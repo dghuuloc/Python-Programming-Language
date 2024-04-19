@@ -1,7 +1,7 @@
 # Python-Programming-Language
 
 ## Python Data Types in Python
-| NAMES              | TYPES           |            |  EXAMPLE                          |
+| TYPES OF GROUPS    | DESCRIPTION     | DATA TYPES |  EXAMPLE                          |
 |:-------------------|:----------------|:-----------|-----------------------------------|
 | Numeric Types      | Integers        | `int`      | y = 20                            |
 | Numeric Types      | Floating-Point  | `float`    | x = 20.5                          |
